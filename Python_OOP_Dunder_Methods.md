@@ -1,4 +1,4 @@
-In object-oriented programming, certain special methods, often referred to as "magic methods" or "dunder methods" (double underscore methods), are frequently used. These methods provide special functionality and are invoked by specific operations or built-in functions. One such commonly used method is `__str__`. Here are some other frequently used methods, along with `__str__`:
+
 
 1. **`__init__`:**
    - **Purpose:** Initializes an object when it is created.
@@ -92,4 +92,3 @@ In object-oriented programming, certain special methods, often referred to as "m
              return self.start + 1
      ```
 
-These are just a few examples of commonly used dunder methods. Depending on the use case and the desired behavior of your classes, you might implement additional dunder methods or override others as needed. The specific methods available and their meanings can vary between programming languages.
