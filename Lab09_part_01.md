@@ -1,7 +1,7 @@
 # **Requirements:**
-# 1. Implement the Distance class with specified attributes and methods.
-# 2. The compute method should raise NotImplementedError if called directly.
-# 3. Implement the __add__, __sub__, __eq__, and __str__ methods.
+#### 1. Implement the Distance class with specified attributes and methods.
+#### 2. The compute method should raise NotImplementedError if called directly.
+#### 3. Implement the __add__, __sub__, __eq__, and __str__ methods.
 
 # **Solution:**
 ```python
