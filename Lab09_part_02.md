@@ -1,9 +1,9 @@
 # **Requirements:**
-# 1. Implement subclasses (ManhattanDistance, CosineDistance, HammingDistance) of the Distance class.
-# 2. Each subclass should have an is_numeric attribute appropriately set.
-# 3. For HammingDistance, include a normalize attribute.
-# 4. Implement compute method in each subclass based on the provided formulas.
-# 5. Handle errors and validations in compute method for each subclass.
+#### 1. Implement subclasses (ManhattanDistance, CosineDistance, HammingDistance) of the Distance class.
+#### 2. Each subclass should have an is_numeric attribute appropriately set.
+#### 3. For HammingDistance, include a normalize attribute.
+#### 4. Implement compute method in each subclass based on the provided formulas.
+#### 5. Handle errors and validations in compute method for each subclass.
 
 # **Solution:**
 ```python
